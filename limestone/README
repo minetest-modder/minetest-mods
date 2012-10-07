@@ -1,0 +1,36 @@
+============
+Description:
+============
+
+This is a mod for Minetest-c55.
+
+Adds 2 limestone blocks and lime for crafting.
+
+There are 2 blocks for building. One based on sand, the other from desert sand.
+They generate where ever there is sand and water.
+
+Lime is found in stone and desert stone and uses the familar mineral pattern for identification.
+
+
+==============
+Dependancies:
+==============
+
+See depends.txt file.
+
+
+
+=========
+Recipes:
+=========
+
+Limestone blocks:
+-----------------
+
+1. sand / desert sand
+2. sand / desert sand
+4. lime 
+5. lime 
+
+Produces 1 limestone block depending on the sand type used.
+

@@ -1,0 +1,33 @@
+============
+Description:
+============
+
+This is a mod for Minetest-c55.
+
+Makes concrete blocks.
+
+
+==============
+Dependancies:
+==============
+
+See depends.txt file.
+
+
+
+=========
+Recipes:
+=========
+
+1. sand / desert sand
+2. sand / desert sand
+3. cement
+4. steel ingot
+5. steel ingot
+6. steel ingot
+7. gravel
+8. gravel
+9. gravel
+
+Produes 10 concrete blocks.
+

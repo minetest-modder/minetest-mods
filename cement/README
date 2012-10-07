@@ -1,0 +1,42 @@
+============
+Description:
+============
+
+This is a mod for Minetest-c55 game.
+
+Makes cement and clay from dirt. Can be used on its own but is really intended as a building
+block for other mods where cement makes sense like stone masonry and concrete.
+
+
+============
+Dependancies:
+=============
+
+See depends.txt file.
+
+
+========
+Recipes:
+========
+
+Cement:
+-------
+
+1. lime
+2. lime
+4. sand / desert sand
+5. clay
+
+Produces 4 cement.
+
+
+Clay:
+-----
+
+1. dirt / dirt with grass
+2. dirt / dirt with grass
+4. dirt / dirt with grass
+5. dirt / dirt with grass
+
+Produces 1 clay
+
